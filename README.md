@@ -19,5 +19,7 @@ React é uma escolha ideal para criar uma aplicação como um TodoList por vári
 3. Abra o terminal na pasta do projeto e execute o comando `npm install` para instalar as dependências.
 4. Execute o comando `npm start` para iniciar a aplicação em modo de desenvolvimento.
 
-<img width="960" alt="todoreact" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/fe064e0c-c936-4ab2-af20-069202c5c6ff">
+<img width="960" alt="todoreact" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/7a46aad8-49c1-4a4c-95f8-2010c1290f0b">
+
+
 
