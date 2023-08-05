@@ -12,12 +12,6 @@ React é uma escolha ideal para criar uma aplicação como um TodoList por vári
 2. **Virtual DOM**: mecanismo chamado DOM, o que torna a atualização da interface de usuário mais eficiente e rápida.
 
 3. **Reatividade**: (particulamente acho o mehlor ponto) O React atualiza automaticamente a interface de usuário sempre que há uma mudança no estado, proporcionando uma experiência de usuário fluida e responsiva.
-## Como executar o projeto
-
-1. Clone este repositório em sua máquina local.
-2. Certifique-se de ter o Node.js instalado em sua máquina. (instale no site: https://nodejs.org/en) super seguro
-3. Abra o terminal na pasta do projeto e execute o comando `npm install` para instalar as dependências.
-4. Execute o comando `npm start` para iniciar a aplicação em modo de desenvolvimento.
 
 <img width="960" alt="todoreact" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/7a46aad8-49c1-4a4c-95f8-2010c1290f0b">
 
