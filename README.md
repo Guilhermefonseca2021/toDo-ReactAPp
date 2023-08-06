@@ -13,7 +13,9 @@ React é uma escolha ideal para criar uma aplicação como um TodoList por vári
 
 3. **Reatividade**: (particulamente acho o mehlor ponto) O React atualiza automaticamente a interface de usuário sempre que há uma mudança no estado, proporcionando uma experiência de usuário fluida e responsiva.
 
-<img width="960" alt="todoreact" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/7a46aad8-49c1-4a4c-95f8-2010c1290f0b">
+<img width="960" alt="linkded-in" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/0ca230eb-547a-4895-bc92-28938310ff60">
+<img width="960" alt="linked-content" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/b2a179ac-f000-40f4-9f4f-8000b38374f6">
+<img width="271" alt="linked-in-mobile" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/21b3a54e-a508-49b2-9bb0-99ae5a8f2e8e">
 
 
 
