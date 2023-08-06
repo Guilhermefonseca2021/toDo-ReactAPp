@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+
 function FormTudo (props) {
 
     const [title, setTitle] = useState('')
@@ -11,6 +12,7 @@ function FormTudo (props) {
         if (title) {
         // mt importante meu todo'title' como argumento da funcao como callback
           props.onAddItem(title)
+
           setTitle('')
         }
       }    

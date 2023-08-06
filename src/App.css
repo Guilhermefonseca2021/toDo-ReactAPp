@@ -1,6 +1,7 @@
 .App {
-    width: 40%;
-    margin: 2em auto;
+    max-width: 900px;
+    margin: auto auto;
+    padding: 5px;
     background-color: #394049;
     border-radius: 5px;
     color: #fff;
@@ -30,7 +31,7 @@
     margin-bottom: 1em;
 }
 
-.form-control labe {
+.form-control label {
     font-weight: bold;
     font-size: .7em;
     margin-bottom: .4em;
@@ -62,5 +63,29 @@ input[type='submit'] {
     margin-bottom: 2em;
 }
 
+.done {
+    text-decoration: line-through
+}
+
+.todo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.6em;
+    box-shadow:  0 2px 7px 1px rgba(0, 0, 0, 0.2);
+    padding: 0.2em;
+    margin-top: 10px;
+}
+
+.manager
+.manager-icon {
+    width: 1.6em;
+    height: 1.6em;
+}
+
+.manager {
+    background-color: #F1F6F9;
+    border-radius: 5px;
+}
 
 
