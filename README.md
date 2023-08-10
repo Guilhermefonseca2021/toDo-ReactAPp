@@ -13,6 +13,9 @@ React é uma escolha ideal para criar uma aplicação como um TodoList por vári
 2. **Virtual DOM**: mecanismo chamado DOM, o que torna a atualização da interface de usuário mais eficiente e rápida.
 
 3. **Reatividade**: (particulamente acho o mehlor ponto) O React atualiza automaticamente a interface de usuário sempre que há uma mudança no estado, proporcionando uma experiência de usuário fluida e responsiva.
+4. 
+<a href="https://to-do-react-app-three.vercel.app/"> clique aqui para ver o resultado </a>
+
 
 <img width="960" alt="linkded-in" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/0ca230eb-547a-4895-bc92-28938310ff60">
 <img width="960" alt="linked-content" src="https://github.com/Guilhermefonseca2021/toDo-ReactApp/assets/92196697/b2a179ac-f000-40f4-9f4f-8000b38374f6">
